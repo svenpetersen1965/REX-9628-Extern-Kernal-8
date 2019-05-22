@@ -1,0 +1,13 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"CAP01";"C-2,5";"C1";"";"";
+"1";"1,3/2,0";"1,3/2,0";"1,3/2,0";"TP1";"Testpunkt";"";
+"1";"74LS30N";"7430DIP";"DIL-14";"IC1";"";"";
+"1";"C64-EXPANSIONP";"C64-EXPANSIONP";"EXPPORT";"J1";"";"";
+"1";"DIPSW-04V";"DIPSW-04V";"DIPSW-04V";"SW1";"";"";
+"1";"DIPSW-10V";"DIPSW-10V";"DIPSW-10V";"SW2";"";"";
+"1";"JTP-1130";"JTP-1130";"JTP-1130";"SW3";"";"";
+"2";"M27C256DIP-28";"M27C256DIP-28";"DIL28-6";"ST1, ST2";"";"";
+"1";"M74LS148P";"74148DIL";"DIL-16";"IC4";"";"";
+"1";"T74LS00B1";"7400DIP";"DIL-14";"IC5";"Quad 2-input NAND Gate SO14";"";
+"1";"T74LS04B1";"7404DIL";"DIL-14";"IC3";"";"";
+"1";"T74LS125ABP1";"74125DIP";"DIL-14";"IC2";"";"";
