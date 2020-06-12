@@ -6,3 +6,5 @@ This is the reverse engineering of the REX Datentechnik 9628 Extern Kernal 8 for
 The reverse engineering was conducted in order to learn about the functions of a kernal cartridge for the C64. 
 
 The original Extern Kernal 8 is working. The design included in this repository is declared to be untested, the files are offered for educational purposes only.  
+# Calculation
+The BOM value is 11.41€ (two 27c256 for 2€ each included). The shipping costs for the components are not included in the calculation 
